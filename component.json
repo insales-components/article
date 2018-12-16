@@ -1,0 +1,19 @@
+{
+  "name": "article",
+  "version": "1.0.0",
+  "description": "Шаблон статьи",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/article",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "breadcrumb": "https://github.com/insales-components/breadcrumb",
+    "article_content": "https://github.com/insales-components/article_content",
+    "article-comments": "https://github.com/insales-components/article-comments",
+    "article-right-column": "https://github.com/insales-components/article-right-column",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
